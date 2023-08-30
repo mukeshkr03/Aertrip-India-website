@@ -1,0 +1,8 @@
+* {
+  margin-top: 0;
+}
+
+.clearButton:hover {
+  background-color: rgb(10, 166, 158) !important;
+  color: white !important;
+}

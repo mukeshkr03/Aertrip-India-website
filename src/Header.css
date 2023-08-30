@@ -1,0 +1,31 @@
+.image {
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  color: whitesmoke;
+}
+
+.hoverEffect:hover {
+  background-color: rgb(12, 205, 195);
+}
+
+.hoverEffect {
+  font-size: 16px;
+  font-weight: 1000px;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: white;
+}
+
+.input {
+  border-bottom: 2px solid rgb(12, 205, 195);
+}
+
+input:focus {
+  border: none !important;
+  outline: none !important;
+}

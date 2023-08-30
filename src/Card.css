@@ -1,0 +1,41 @@
+.card {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 3px #efecec;
+}
+
+.card:hover {
+  box-shadow: 1px 5px 5px 5px #efecec !important;
+}
+
+.flightName {
+  font-size: 16px;
+}
+.dispatchTime {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.from {
+  font-size: 18px;
+}
+
+.arrivalTime {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.to {
+  font-size: 18px;
+}
+
+.price {
+  font-weight: bold;
+  color: rgb(10, 166, 158);
+}
+
+.duration {
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(10, 166, 158);
+}
